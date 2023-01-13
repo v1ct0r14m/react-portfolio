@@ -56,7 +56,7 @@ const Contact = () => {
                                 </textarea>
                             </li>
                             <li>
-                                <input type='submit' className='flat-button' value='send' />
+                                <input type='submit' className='flat-button-submit' value='send' />
                             </li>
                         </ul>
                     </form>
