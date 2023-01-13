@@ -22,13 +22,15 @@
         position: absolute;
         width: 200px;
         height: 200px;
-        border: 1px solid #cccccc;
-        background: #b7b7b7;
+        border: none;
+        border-radius: 10px;
+        background: #dfdfdf;
         font-size: 100px;
         display: flex;
         justify-content: center;
         align-items: center;
         box-shadow: 0 0 12px 0 lightcyan;
+        border-collapse: collapse;
     }
 
     .face1 {
