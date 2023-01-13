@@ -5,8 +5,8 @@ import './index.scss'
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
-    const nameArray = [' ', 'v', 'i', 'c', 't', 'o', 'r', 'i', 'a']
-    const jobArray = ['w','e', 'b', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r']
+    const nameArray = [' ', 'v', 'i', 'c', 't', 'o', 'r', 'i', 'a', '.']
+    const jobArray = ['w','e', 'b', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.']
 
     //  useEffect(() => {
     //      return setTimeout(() => {
@@ -20,7 +20,10 @@ const Home = () => {
 
                 <h1>
                     <span className={letterClass}>h</span>
-                    <span className={`${letterClass} _12`}>i,</span>
+                    <span className={`${letterClass} _12`}>o</span>
+                    <span className={`${letterClass} _12`}>w</span>
+                    <span className={`${letterClass} _12`}>d</span>
+                    <span className={`${letterClass} _12`}>y,</span>
                 <br />
                     <span className={`${letterClass} _13`}>i</span>
                     <span className={`${letterClass} _14`}>'m</span>

@@ -2,6 +2,7 @@
 
     .text-zone {
         position: absolute;
+        display: inline-block;
         left: 10%;
         top: 50%;
         transform: translateY(-50%);
@@ -18,7 +19,7 @@
         font-family: 'Coolvetica';
         font-weight: 400;
 
-        &::before {
+        /*&::before {
             content: '<h1>';
             font-family: 'La Belle Aurore', cursive;
             color: #3d4dfc;
@@ -38,7 +39,7 @@
             margin-left: 20px;
             animation: fadeIn 1s 1.7s backwards;
             opacity: 0.6;
-        }
+        }*/
     }
 
 }
