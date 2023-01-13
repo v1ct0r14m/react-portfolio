@@ -63,16 +63,16 @@ nav {
             }
         }
             &:after {
-             content: '';
-            font-size: 17px;
-            letter-spacing: 2px;
-            position: absolute;
-            top: 0;
-            display: block;
-            width: 100%;
-            text-align: center;
-            opacity: 0;
-            transform: all 0.3s ease-out;
+                content: '';
+                font-size: 17px;
+                letter-spacing: 2px;
+                position: absolute;
+                top: 0;
+                display: block;
+                width: 100%;
+                text-align: center;
+                opacity: 0;
+                transform: all 0.3s ease-out;
             }
 
             &:first-child {
@@ -82,8 +82,8 @@ nav {
             }
         }    
     
-    a.about-link {
-        &:after{
+        a.about-link {
+        &:after {
             content: 'about';
         }
     }
@@ -91,6 +91,12 @@ nav {
     a.contact-link {
         &:after {
             content: 'contact';
+        }
+    }
+
+    a.portfolio-link {
+        &:after {
+            content: 'portfolio';
         }
     }
         
