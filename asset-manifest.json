@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/%3Cv1ct0r14m%3E.github.io/%3Creact-portfolio%3E/static/css/main.dcc9fb9c.css",
+    "main.js": "/%3Cv1ct0r14m%3E.github.io/%3Creact-portfolio%3E/static/js/main.8685de9a.js",
+    "static/js/787.a2cb61a6.chunk.js": "/%3Cv1ct0r14m%3E.github.io/%3Creact-portfolio%3E/static/js/787.a2cb61a6.chunk.js",
+    "static/media/helvetica-neu.ttf": "/%3Cv1ct0r14m%3E.github.io/%3Creact-portfolio%3E/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/my-logo.png": "/%3Cv1ct0r14m%3E.github.io/%3Creact-portfolio%3E/static/media/my-logo.1844b8b0fe67f5ce6a0a.png",
+    "static/media/LaBelleAurore.woff2": "/%3Cv1ct0r14m%3E.github.io/%3Creact-portfolio%3E/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/%3Cv1ct0r14m%3E.github.io/%3Creact-portfolio%3E/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/%3Cv1ct0r14m%3E.github.io/%3Creact-portfolio%3E/index.html",
+    "main.dcc9fb9c.css.map": "/%3Cv1ct0r14m%3E.github.io/%3Creact-portfolio%3E/static/css/main.dcc9fb9c.css.map",
+    "main.8685de9a.js.map": "/%3Cv1ct0r14m%3E.github.io/%3Creact-portfolio%3E/static/js/main.8685de9a.js.map",
+    "787.a2cb61a6.chunk.js.map": "/%3Cv1ct0r14m%3E.github.io/%3Creact-portfolio%3E/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc9fb9c.css",
+    "static/js/main.8685de9a.js"
+  ]
+}
