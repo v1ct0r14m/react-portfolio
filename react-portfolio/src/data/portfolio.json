@@ -1,0 +1,25 @@
+{
+    "projects": [
+      {
+        "id": "0",
+        "name": "Sample1",
+        "species": "bear",
+        "diet": "omnivore",
+        "personalityTraits": ["hungry", "zany", "loving"]
+      },
+      {
+        "id": "1",
+        "name": "Sample2",
+        "species": "gorilla",
+        "diet": "folivore",
+        "personalityTraits": ["anxious", "goofy"]
+      },
+      {
+        "id": "2",
+        "name": "Sample3",
+        "species": "gorilla",
+        "diet": "folivore",
+        "personalityTraits": ["quirky", "rash"]
+      }
+    ]
+}
